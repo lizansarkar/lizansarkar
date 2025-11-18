@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 <!-- Banner -->
 ![Banner](/banner.png)
 
@@ -6,10 +6,8 @@
 ### Full-Stack Web Developer
 
 ## About Me
-I’m Lizan — a Full-Stack Web Developer who builds user-friendly and performant web applications.
-Currently exploring **Next.js** and working on a tourism website project.
-
-**Currently:** 🟢 Exploring **Next.js** • 🛠 Building a tourism website • 📚 Learning advanced Node.js patterns
+I’m a Full-Stack Web Developer who builds as-you-wish web applications.
+Currently, I am working with Skill Paradox and working on a Dourao website project.
 
 ## Skills
 
@@ -25,15 +23,14 @@ Currently exploring **Next.js** and working on a tourism website project.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUserName)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lizansarkar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourProfile)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizansarkar16@gmail.com)
 
 ![Lizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
 
-Short description: Tourism website for XYZ — booking, galleries and admin dashboard.
-Live link: https://your-live-link.example.com
+Short description: Dourao website for XYZ — booking, galleries and admin dashboard.
+Live link: https://dourao.pages.dev/
 Tech: React, Tailwind, Node.js, Express, MongoDB, Firebase Auth
 
 
@@ -41,15 +38,3 @@ Tech: React, Tailwind, Node.js, Express, MongoDB, Firebase Auth
 
 <!--
 **lizansarkar/lizansarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
