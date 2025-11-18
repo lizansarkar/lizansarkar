@@ -7,7 +7,8 @@
 
 ## About Me
 I’m a Full-Stack Web Developer who builds as-you-wish web applications.
-Currently, I am working with Skill Paradox and working on a Dourao website project.
+
+***Currently, I am working with Skill Paradox Agency and working on a Dourao website project.***
 
 ## Skills
 
@@ -27,9 +28,11 @@ Currently, I am working with Skill Paradox and working on a Dourao website proje
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizansarkar16@gmail.com)
 
-![Lizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+## My stats
+![Lizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizansarkar&show_icons=true&title_color=E5E7EB&text_color=D1D5DB&icon_color=9CA3AF&bg_color=111827&hide_border=true&border_radius=10)
 
-Short description: Dourao website for XYZ — booking, galleries and admin dashboard.
+
+Short description: The Dourao website provides to our delivery service.
 Live link: https://dourao.pages.dev/
 Tech: React, Tailwind, Node.js, Express, MongoDB, Firebase Auth
 
