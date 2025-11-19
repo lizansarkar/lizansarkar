@@ -2,9 +2,6 @@
 <!-- Banner -->
 ![Banner](/banner.png)
 
-# Lizan Sarkar
-### Full-Stack Web Developer
-
 ## About Me
 I’m a Full-Stack Web Developer who builds as-you-wish web applications.
 
