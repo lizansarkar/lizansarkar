@@ -74,10 +74,10 @@ Git • GitHub
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lizansarkar&show_icons=true&title_color=E5E7EB&text_color=D1D5DB&icon_color=9CA3AF&bg_color=111827&hide_border=true&border_radius=10" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lizansarkar&theme=dark&hide_border=true" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lizansarkar&theme=github-dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizansarkar&theme=2077)
+
 
 ---
 
