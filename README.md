@@ -1,45 +1,7 @@
-## Hi, I'm Lizan Sarkar
----
-
-
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizansarkar&theme=dark&title_color=FFFFFF&text_color=FFFFFF" alt="Lizan Sarkar Stats" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizansarkar&theme=dark&title_color=FFFFFF&text_color=FFFFFF" alt="Lizan Sarkar Profile Details" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&hide_rank=true&count_private=true&cache_buster=A75BCCDF" alt="Lizan Sarkar GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizansarkar&layout=compact&langs_count=10&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&cache_buster=A75BCCDF" alt="Lizan Sarkar Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 
 ## 🚀 About Me  
-I’m a passionate **Frontend Web Developer** who builds responsive, clean, and user-centric web applications.  
-Currently working with **Skill Paradox (Bonani, Dhaka)** as an Intern Frontend Developer.  
-I love crafting beautiful UI, improving website performance, and delivering high-quality user experiences.
+Front-end Web Developer with expertise in building responsive, high-performance, and user-centric web applications.
 
 ---
 
@@ -78,31 +40,16 @@ Git • GitHub
 
 ---
 
-## 📌 Featured Projects  
-
-### 🔗 **Code Zentro — Digital Service Agency**  
-**Live Link:** https://codezentro.com/  
-**Client GitHub:** (Insert link if available)
-
-**Major Features:**  
-- Real-time data updates  
-- Responsive UI  
-- Multi-page layout  
-- Optimized performance  
-
 ---
 
-### 🔗 **Dourao — Delivery Service Platform**  
-**Live Link:** https://dourao.pages.dev/  
+## 📌 Featured Projects  
 
-**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase Auth  
+| # | Project Name | Live Link | Tech Stack | Major Features |
+| :---: | :--- | :--- | :--- | :--- |
+| **1** | **Code Zentro — Digital Service Agency** | [codezentro.com](https://codezentro.com/) | HTML5, CSS3, JavaScript, (Client GitHub link if available) | Real-time data updates, Responsive UI, Multi-page layout, Optimized performance |
+| **2** | **Dourao — Delivery Service Platform** | [dourao.pages.dev](https://dourao.pages.dev/) | **MERN Stack** (React, Node.js, Express.js, MongoDB), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
 
-**Major Features:**  
-- Backend integration for order management  
-- User authentication  
-- Database connectivity  
-- Mobile-first responsive design  
-
+---
 ---
 
 ## 📊 GitHub Stats  
@@ -131,4 +78,4 @@ Git • GitHub
 
 ---
 
-### Thanks for visiting my profile 🙌  
+### Thanks for your attention❤️
