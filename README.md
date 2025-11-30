@@ -1,4 +1,40 @@
 
+<div align="center">
+  <img src="banner.png" alt="Lizan Sarkar Header Banner" width="100%" />
+</div>
+
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&show_icons=true&hide_rank=true&theme=default&bg_color=FFFFFF&border_color=CCCCCC&title_color=24292E&text_color=24292E&icon_color=0366D6&count_private=true" alt="Lizan Sarkar GitHub Stats" />
+      </td>
+      
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizansarkar&layout=compact&langs_count=10&theme=default&bg_color=FFFFFF&border_color=CCCCCC&title_color=24292E&text_color=24292E" alt="Lizan Sarkar Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br> <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizansarkar&theme=light&bg_color=FFFFFF&border_color=CCCCCC&title_color=0366D6&text_color=24292E" alt="Lizan Sarkar Profile Details" />
+      </td>
+      
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&repo=YOUR_TOP_REPO_1&hide_border=true&title_color=0366D6&text_color=24292E&bg_color=FFFFFF" alt="Lizan Sarkar Top Repos" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&repo=YOUR_TOP_REPO_2&hide_border=true&title_color=0366D6&text_color=24292E&bg_color=FFFFFF" alt="Lizan Sarkar Top Repos" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## 🚀 About Me  
 Front-end Web Developer with expertise in building responsive, high-performance, and user-centric web applications.
@@ -73,8 +109,10 @@ Git • GitHub
 
 ## 🌐 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lizansarkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/lizan-sarkar-707042393/))
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizansarkar16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizan-sarkar-707042393)
+<a href="mailto:lizansarkar16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 
 
 ### Thanks for your attention❤️
