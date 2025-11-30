@@ -46,8 +46,8 @@ Git • GitHub
 
 | # | Project Name | Live Link | Tech Stack | Major Features |
 | :---: | :--- | :--- | :--- | :--- |
-| **1** | **Code Zentro — Digital Service Agency** | [codezentro.com](https://codezentro.com/) | HTML5, CSS3, JavaScript, (Client GitHub link if available) | Real-time data updates, Responsive UI, Multi-page layout, Optimized performance |
-| **2** | **Dourao — Delivery Service Platform** | [dourao.pages.dev](https://dourao.pages.dev/) | **MERN Stack** (React, Node.js, Express.js, MongoDB), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
+| **1** | **Code Zentro — Digital Service Agency** | [codezentro](https://skill-paradox.pages.dev/) | HTML5, CSS3, JavaScript, (Client GitHub link if available) | Real-time data updates, Responsive UI, Multi-page layout, Optimized performance |
+| **2** | **Dourao — Delivery Service Platform** | [dourao](https://dourao.pages.dev/) | **MERN Stack** (React, Node.js, Express.js, MongoDB), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
 
 ---
 ---
@@ -73,9 +73,8 @@ Git • GitHub
 
 ## 🌐 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lizansarkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/lizan-sarkar-707042393/))
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizansarkar16@gmail.com)
 
----
 
 ### Thanks for your attention❤️
