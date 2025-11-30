@@ -1,8 +1,40 @@
-## Hi, I'm Lizan Sarkar 👋  
-**Frontend Developer**  
-_Rangpur, Bangladesh_
-
+## Hi, I'm Lizan Sarkar
 ---
+
+
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizansarkar&theme=dark&title_color=FFFFFF&text_color=FFFFFF" alt="Lizan Sarkar Stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizansarkar&theme=dark&title_color=FFFFFF&text_color=FFFFFF" alt="Lizan Sarkar Profile Details" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&hide_rank=true&count_private=true&cache_buster=A75BCCDF" alt="Lizan Sarkar GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizansarkar&layout=compact&langs_count=10&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&cache_buster=A75BCCDF" alt="Lizan Sarkar Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## 🚀 About Me  
 I’m a passionate **Frontend Web Developer** who builds responsive, clean, and user-centric web applications.  
@@ -74,9 +106,20 @@ Git • GitHub
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lizansarkar&theme=github-dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizansarkar&theme=2077)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizansarkar&theme=dark&title_color=FFFFFF&text_color=FFFFFF" alt="Lizan Sarkar Stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizansarkar&theme=dark&title_color=FFFFFF&text_color=FFFFFF" alt="Lizan Sarkar Profile Details" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ---
