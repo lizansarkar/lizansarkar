@@ -3,43 +3,9 @@
   <img src="banner.png" alt="Lizan Sarkar Header Banner" width="100%" />
 </div>
 
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&show_icons=true&hide_rank=true&theme=default&bg_color=FFFFFF&border_color=CCCCCC&title_color=24292E&text_color=24292E&icon_color=0366D6&count_private=true" alt="Lizan Sarkar GitHub Stats" />
-      </td>
-      
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizansarkar&layout=compact&langs_count=10&theme=default&bg_color=FFFFFF&border_color=CCCCCC&title_color=24292E&text_color=24292E" alt="Lizan Sarkar Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br> <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizansarkar&theme=light&bg_color=FFFFFF&border_color=CCCCCC&title_color=0366D6&text_color=24292E" alt="Lizan Sarkar Profile Details" />
-      </td>
-      
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&repo=YOUR_TOP_REPO_1&hide_border=true&title_color=0366D6&text_color=24292E&bg_color=FFFFFF" alt="Lizan Sarkar Top Repos" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=lizansarkar&repo=YOUR_TOP_REPO_2&hide_border=true&title_color=0366D6&text_color=24292E&bg_color=FFFFFF" alt="Lizan Sarkar Top Repos" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 ## 🚀 About Me  
 Front-end Web Developer with expertise in building responsive, high-performance, and user-centric web applications.
 
----
 
 ## 🧩 Experience  
 ### **Frontend Developer (Intern) — Skill Paradox, Bangladesh**  
@@ -76,8 +42,6 @@ Git • GitHub
 
 ---
 
----
-
 ## 📌 Featured Projects  
 
 | # | Project Name | Live Link | Tech Stack | Major Features |
@@ -85,7 +49,6 @@ Git • GitHub
 | **1** | **Code Zentro — Digital Service Agency** | [codezentro](https://skill-paradox.pages.dev/) | HTML5, CSS3, JavaScript, (Client GitHub link if available) | Real-time data updates, Responsive UI, Multi-page layout, Optimized performance |
 | **2** | **Dourao — Delivery Service Platform** | [dourao](https://dourao.pages.dev/) | **MERN Stack** (React, Node.js, Express.js, MongoDB), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
 
----
 ---
 
 ## 📊 GitHub Stats  
