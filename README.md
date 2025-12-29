@@ -15,7 +15,7 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 ✔ Collaborated with **Code Zentro** to develop their digital service agency website  
 ✔ Worked on multiple small client projects  
 ✔ Improved website performance and UI consistency  
-✔ Multitasked in design (Figma), frontend development, and content creation  
+✔ Multitasked in design (Figma), frontend development, and content creation
 
 ---
 
@@ -38,7 +38,7 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 Figma • Adobe Photoshop • Adobe Illustrator  
 
 ### **Version Control**
-Git • GitHub  
+Git • GitHub
 
 ---
 
@@ -48,6 +48,7 @@ Git • GitHub
 | :---: | :--- | :--- | :--- | :--- |
 | **1** | **Code Zentro — Digital Service Agency** | [codezentro](https://skill-paradox.pages.dev/) | HTML5, CSS3, JavaScript, (Client GitHub link if available) | Real-time data updates, Responsive UI, Multi-page layout, Optimized performance |
 | **2** | **Dourao — Delivery Service Platform** | [dourao](https://dourao.pages.dev/) | **MERN Stack** (React, Node.js, Express.js, MongoDB), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
+| **3** | **E Tuition Bd — Find Tutor Platform** | [dourao](https://dourao.pages.dev/) | **MERN Stack** (React, Node.js, Express.js, MongoDB), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
 
 ---
 
