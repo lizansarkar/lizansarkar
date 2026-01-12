@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="github-banner.png" alt="Lizan Sarkar Header Banner" width="100%" />
 </div>
@@ -9,7 +8,7 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 
 ## 🧩 Experience  
 ### **Frontend Developer (Intern) — Skill Paradox, Bangladesh**  
-**Duration:** 5 Months  
+**Duration:** 6 Months  
 **Location:** Bonani, Dhaka  
 
 ✔ Collaborated with **Code Zentro** to develop their digital service agency website  
@@ -22,34 +21,48 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 ## 🛠️ Technical Skills  
 
 ### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<p align="left">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="40" alt="HTML5" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="40" alt="CSS3" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="40" alt="TailwindCSS" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" height="40" alt="JavaScript" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="40" alt="React" /> &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="Next.js" />
+</p>
 
 ### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/New_Firebase_logo.svg/1280px-New_Firebase_logo.svg.png" height="40" alt="Firebase" /> &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" height="40" alt="Express" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="40" alt="Node.js" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="40" alt="MongoDB" />
+</p>
 
 ### 🎨 Design Tools
 
 <p align="left">
-  <img src="https://i.pinimg.com/736x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg" height="40" alt="Figma" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHYhvKr2Lwrwpq5Vt_M2OPv9KPUu69VlzfiA&s" height="40" alt="Photoshop" />
-  <img src="https://images.icon-icons.com/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" height="40" alt="Illustrator" />
+  <img src="https://i.pinimg.com/736x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg" height="40" alt="Figma" /> &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHYhvKr2Lwrwpq5Vt_M2OPv9KPUu69VlzfiA&s" height="40" alt="Photoshop" /> &nbsp;&nbsp;
+  <img src="https://images.icon-icons.com/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" height="40" alt="Illustrator" /> &nbsp;&nbsp;
   <img src="https://talic.hku.hk/wp-content/files/edtools/EdTechIcon_Canva.webp" height="40" alt="Canva" />
 </p>
 
 ### **Version Control**
+
 <p align="left">
-  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="40" alt="Git" />
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="40" alt="Git" /> &nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHIbEeeXnOPyy_0LhyLy01Wd9Hq4pLcmdYQ&s" height="40" alt="GitHub" />
 </p>
 
----
+### **More I Know**
+
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" height="40" alt="Wordpress" /> &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMjHkRaMrCJSrZ3YvAWQGjqIFCQjjYp6bxg&s" height="40" alt="Elementor" /> &nbsp;&nbsp;
+  <img src="https://agentwp.com/wp-content/uploads/2024/03/bricks-icon.svg" height="40" alt="Wordpress Bricks Builder" />
+</p>
 
 ## 📌 Featured Projects  
 
