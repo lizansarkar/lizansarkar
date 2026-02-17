@@ -68,8 +68,8 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 | # | Project Name | Live Link | Tech Stack | Major Features |
 | :---: | :--- | :--- | :--- | :--- |
 | **1** | **E Tuition Bd — Find Tutor Platform** | [E Tuition Bd](https://e-tuition-bd-c38ed.web.app/) | CSS3, Tailwind CSS, JavaScript, React, Express, Mongodb ([Client GitHub link](https://github.com/lizansarkar/e-tuition-bd-client-side.git)) | This is a tuition website where you can find the tutor of your choice. It also has authentication features, including frontend and backend. |
-| **2** | **Dourao — Delivery Service Platform** | [Dourao](https://dourao.pages.dev/) | **MERN Stack** (MongoDB, Express.js, React, Node.js), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
-| **3** | **Coze Zentro — Provide Digital Service** | [Code Zentro](https://code-zentro.netlify.app/) | **Front-End** Html5, Tailwind Css, React | This is for my agency. I only designed the frontend of this website and this is the 3rd website for our agency thats why. |
+| **2** | **Dourao — Delivery Service** | [Dourao](https://dourao.pages.dev/) | **MERN Stack** (MongoDB, Express.js, React, Node.js), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
+| **3** | **Coze Zentro — Provide Digital Service** | [Code Zentro](https://code-zentro.netlify.app/) | **Front-End** Html5, Tailwind Css, React, React Router | This is for my agency. I only designed the frontend of this website, and this is the 3rd website for our agency thats why. |
 
 ---
 
