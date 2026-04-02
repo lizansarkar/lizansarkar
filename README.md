@@ -95,18 +95,35 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 ## 🌐 Connect With Me  
 
 <p align="left">
+
   <a href="https://www.linkedin.com/in/lizan-sarkar-707042393/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://x.com/LizanIslam35436" target="_blank">
     <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
+
+  <a href="https://www.facebook.com/lizan.sarkar.2025" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://leetcode.com/u/Z33VeyQvdf" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
   <a href="https://wa.me/8801929562566" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:lizansarkar16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<a href="mailto:lizansarkar16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+  <a href="https://lizan-protfolio.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+
 </p>
 
 
