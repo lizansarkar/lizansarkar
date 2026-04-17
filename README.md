@@ -26,7 +26,7 @@ Front-end Web Developer with expertise in building responsive, high-performance,
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="40" alt="CSS3" /> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="40" alt="TailwindCSS" /> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" height="40" alt="JavaScript" /> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="40" alt="React" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png" height="40" alt="React" /> &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="Next.js" />
 </p>
 
