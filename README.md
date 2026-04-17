@@ -97,31 +97,31 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 <p align="left">
 
   <a href="https://www.linkedin.com/in/lizan-sarkar-707042393/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" height="40" alt="React" /> &nbsp;&nbsp;
   </a>
 
   <a href="https://x.com/LizanIslam35436" target="_blank">
-    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/3840px-X_icon.svg.png" height="40" alt="X" /> &nbsp;&nbsp;
   </a>
 
   <a href="https://www.facebook.com/lizan.sarkar.2025" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-
-<a href="https://leetcode.com/u/Z33VeyQvdf" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-
-  <a href="https://wa.me/8801929562566" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/960px-2021_Facebook_icon.svg.png?_=20220821121039" height="40" alt="Facebook" /> &nbsp;&nbsp;
   </a>
 
-<a href="mailto:lizansarkar16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://leetcode.com/u/Z33VeyQvdf" target="_blank">
+     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-2944960.png" height="40" alt="LeetCode" /> &nbsp;&nbsp;
+  </a>
+
+  <a href="https://wa.me/8801929562566" target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/3840px-WhatsApp.svg.png" height="40" alt="WhatsApp" /> &nbsp;&nbsp;
+  </a>
+
+  <a href="mailto:lizansarkar16@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" height="40" alt="Email" /> &nbsp;&nbsp;
+  </a>
 
   <a href="https://lizan-protfolio.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/1200/external-portfolio-web-development-flaticons-flat-flat-icons.jpg" height="40" alt="Portfolio" /> &nbsp;&nbsp;
   </a>
 
 </p>
