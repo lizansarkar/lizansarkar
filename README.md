@@ -69,7 +69,7 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 | :---: | :--- | :--- | :--- | :--- |
 | **1** | **E Tuition Bd — Find Tutor Platform** | [E Tuition Bd](https://e-tuition-bd-c38ed.web.app/) | CSS3, Tailwind CSS, JavaScript, React, Express, Mongodb ([Client GitHub link](https://github.com/lizansarkar/e-tuition-bd-client-side.git)) | This is a tuition website where you can find the tutor of your choice. It also has authentication features, including frontend and backend. |
 | **2** | **Dourao — Delivery Service** | [Dourao](https://dourao.pages.dev/) | **MERN Stack** (MongoDB, Express.js, React, Node.js), Tailwind CSS, Firebase Auth | Backend integration for order management, User authentication, Database connectivity, Mobile-first responsive design |
-| **3** | **Coze Zentro — Provide Digital Service** | [Code Zentro](https://code-zentro.netlify.app/) | **Front-End** Html5, Tailwind Css, React, React Router | This is for my agency. I only designed the frontend of this website, and this is the 3rd website for our agency thats why. |
+| **3** | **Coze Zentro — Provide Digital Service** | [Code Zentro](https://code-zentro.netlify.app/) | **Front-End** Html5, Tailwind Css, React, React Router | This is for my agency. I only designed the frontend of this website, and this is the 3rd website for our agency, that's why. |
 
 ---
 
@@ -117,7 +117,7 @@ Front-end Web Developer with expertise in building responsive, high-performance,
   </a>
 
   <a href="mailto:lizansarkar16@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" height="40" alt="Email" /> &nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" height="30" alt="Email" /> &nbsp;&nbsp;
   </a>
 
   <a href="https://lizan-protfolio.pages.dev/" target="_blank">
