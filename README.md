@@ -96,7 +96,7 @@ Front-end Web Developer with expertise in building responsive, high-performance,
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/lizan-sarkar-707042393/" target="_blank">
+  <a href="https://www.linkedin.com/in/lizan-sarkar" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" height="40" alt="React" /> &nbsp;&nbsp;
   </a>
 
